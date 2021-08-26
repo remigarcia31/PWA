@@ -1,0 +1,42 @@
+{
+  "name": "Transfert de stock",
+  "short_name": "Trans. Stock",
+  "start_url": "./index.html",
+  "background_color": "white",
+  "theme_color" : "white",
+  "display": "standalone", 
+  "orientation": "portrait-primary",
+  "icons": [
+      {
+          "src": "./assets/icons/stock64.png",
+          "type": "image/png",
+          "sizes": "64x64"
+      },
+      {
+        "src": "./assets/icons/stock72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "./assets/icons/stock96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+          "src": "./assets/icons/stock128.png",
+          "type": "image/png",
+          "sizes": "128x128",
+          "purpose": "any maskable"
+      },
+      {
+          "src": "./assets/icons/stock256.png",
+          "type": "image/png",
+          "sizes": "256x256"
+      },
+      {
+          "src": "./assets/icons/stock512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+      }
+  ]
+}
